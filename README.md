@@ -1,5 +1,5 @@
 # Daily-Check-Bot-Cornell
 Does the DailyCheck for Cornell Students
 
-Dependencies - Selenium and Chrome Driver
+Dependencies - Selenium and ChromeDriver (Put in Bin Folder)
 
